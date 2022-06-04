@@ -1,0 +1,4 @@
+FullName: Ivanov Ivan Ivanovich,
+age: 7,
+number of pets: 19,
+future desired salary: 15
